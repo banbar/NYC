@@ -1,24 +1,11 @@
 # New York City - Query Performance Analyses of Postgres and MongoDB
-This repository contains the code and experiments to analyse openly available taxi dataset of New York City. The available content is as follows:
-
-
-# GIS-Programming
-This repository contains the data, information and code about the content of the "GMT 456 GIS Programming" course offered at the Geomatics Engineering Dept. of Hacettepe University, Turkey.
-
-The developed code is based on Python as it allows to further extend into a QGIS plugin.
+This repository contains the code and experiments to analyse openly available taxi dataset of New York City.The content is optimised for .  [yellow taxi trips of 2015](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ## Contents:
-* Object oriented programming - A Recap
-  * dfg
-   * Function Calls – pass by reference vs pass by value
-   * Signal- Slot
-* Graph Data Structure
-   * Adjacency Matrix
-   * Disjoint Sets
-   * Minimum Spanning Tree (MST)
-      * Kruskal's Algorithm
-      * Prim's Algorithm
-* Building a QGIS Plugin
+* nyc_yellow_table_create
+  * This file is used to create the tables in Postgres by assigning a unique ID to each trip. 
+  * Lab task: Investigate the difference between the size of the tables. 
+    
 
 ## PostGIS - SQL
 1. Import the polygon shapefile into PostGIS
