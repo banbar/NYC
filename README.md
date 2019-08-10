@@ -7,5 +7,5 @@ This repository contains the code and experiments to analyse openly available ta
   * It is important to assign an appropriate data type to each attribute.
   * Lab task: Investigate the difference between the size of the created tables.  
 * postgres2GeoJSON.py
- * Creating the GeoJSON files that could be imported into MongoDB.
+  * Creating the GeoJSON files that could be imported into MongoDB.
   
