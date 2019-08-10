@@ -1,5 +1,5 @@
 # New York City - Query Performance Analyses of Postgres and MongoDB
-This repository contains the code and experiments to analyse openly available taxi dataset of New York City.The content is optimised for .  [yellow taxi trips of 2015](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+This repository contains the code and experiments to analyse openly available taxi dataset of New York City.The content is optimised for [yellow taxi trips of 2015](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ## Contents:
 * nyc_yellow_table_create.sql
