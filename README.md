@@ -8,4 +8,6 @@ This repository contains the code and experiments to analyse openly available ta
   * Lab task: Investigate the difference between the size of the created tables.  
 * postgres2GeoJSON.py
   * Creating the GeoJSON files that could be imported into MongoDB.
+* KNN.py
+  * Detecting the KNN of a query point
   
