@@ -10,4 +10,8 @@ This repository contains the code and experiments to analyse openly available ta
   * Creating the GeoJSON files that could be imported into MongoDB.
 * KNN.py
   * Detecting the KNN of a query point
+* pip.py
+  * Point-in-Polygon query (pip). Given a query point, it determines the polygon which it resides in. 
+* Journey Time Analysis
+  * This folder includes the code and data to visualise the journey times from John F. Kennedy airport to LaGuardia.
   
